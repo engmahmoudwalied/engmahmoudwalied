@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning Php Web development
 - 💞️ I’m looking to collaborate on open source project 
 - 📫 How to reach me : call me at : 01062437507
-
 Skills: 
-*Next JS 
+*NextJS 
 *REACT 
 *JS 
 *HTML 
