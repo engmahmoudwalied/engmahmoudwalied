@@ -5,14 +5,7 @@
 - 💞️ I’m looking to collaborate on open source project 
 - 📫 How to reach me : call me at : 01062437507
   
-Skills: 
-*NextJS 
-*REACT 
-*JS 
-*HTML 
-*CSS 
-*bootstrap5 
-*TailwindCss
+Skills: NextJS / REACT / JS / HTML / CSS / bootstrap5 / TailwindCss
 <!---
 engmahmoudwalied/engmahmoudwalied is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
